@@ -1,10 +1,10 @@
 # rocket.nvim
 
-![](rocket-solid.svg)
+![rocket vim](rocket.jpg)
 
 Neovim PDE with sane defaults.
 
-___To install:___
+**_To install:_**
 
 Make sure you already have [Neovim](https://neovim.io) installed.
 
