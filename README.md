@@ -1,6 +1,6 @@
 # rocket.nvim
 
-![rocket vim](rocket.jpg)
+![rocket vim](rocket.png)
 
 Neovim PDE with sane defaults.
 
