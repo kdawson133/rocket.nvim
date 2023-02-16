@@ -21,7 +21,6 @@ opt.iskeyword:append("-")
 
 -- cursor line
 opt.cursorline = true
-vim.opt.cursorcolumn = true
 
 -- appearance
 opt.termguicolors = true
