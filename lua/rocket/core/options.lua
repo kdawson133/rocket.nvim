@@ -21,6 +21,7 @@ opt.iskeyword:append("-")
 
 -- cursor line
 opt.cursorline = true
+opt.cursorcolumn = true
 
 -- appearance
 opt.termguicolors = true
@@ -36,6 +37,10 @@ opt.clipboard:append("unnamedplus")
 -- split windows
 opt.splitright = true
 opt.splitbelow = true
+
+-- commandline completion
+opt.wildmenu = true
+opt.wildmode = "longest:full,full"
 
 -- transparency
 vim.api.nvim_set_hl(0, "Normal", { bg = "none" })
